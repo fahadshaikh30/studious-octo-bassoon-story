@@ -6,5 +6,5 @@ It seemed to be very difficult to many students!
 However, with the help of his wonderful xteam, he learned to absolutely love
 cs400 with all of his heart. Fahad enjoyed remotely logging into linux 
 terminals in the cs labs, and that was his favorite thing to do in his spare
-time. But one day when he remotely logged in....
+time. But one day when he remotely logged in he remembered that he had not finished his x3 assignment. So he opened his favorite editor vim and finished his story.
 
