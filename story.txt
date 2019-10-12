@@ -2,6 +2,7 @@ this is my story
 
 Fahad is a student in professor Deb's CS400 class. He's interested for Thursday's lecture on BTrees.
 It seemed to be very difficult to many students! 
+Indeed, p2 was particularly mindbending.
 
 However, with the help of his wonderful xteam, he learned to absolutely love
 cs400 with all of his heart. Fahad enjoyed remotely logging into linux 
